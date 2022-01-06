@@ -94,6 +94,10 @@ footer{
     position: relative;
   }
 
+  .box:last-child{
+    margin-bottom: 0px;
+  }
+
   header,
   footer{
     min-width: 100%;
